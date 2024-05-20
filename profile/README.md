@@ -1,6 +1,6 @@
-Pattern Recognition, Machine Learning, Data Engineering
+Pattern Recognition, Machine Learning, Data Engineering, etc.
 
-**Project Label**: 0003
+**Project Label**: $prml_{3}$
 
 <br>
 <br>
