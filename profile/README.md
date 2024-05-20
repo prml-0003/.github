@@ -1,4 +1,4 @@
-Pattern Recognition & Machine Intelligence
+Pattern Recognition & Machine Learning
 
 **Project Label**: 0003
 
