@@ -1,4 +1,4 @@
-Pattern Recognition & Machine Learning
+Pattern Recognition, Machine Learning, Data Engineering
 
 **Project Label**: 0003
 
