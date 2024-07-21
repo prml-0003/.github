@@ -1,4 +1,4 @@
-Climate & Sustainability Measures
+Climate & Sustainability
 
 **Project Label**: $prml_{3}$
 
